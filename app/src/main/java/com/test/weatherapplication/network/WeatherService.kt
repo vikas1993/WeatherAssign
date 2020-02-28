@@ -7,7 +7,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 /**
- * Created by burakakgun on 14.08.2018.
+ * Created by vikas on 29-02-2020.
  */
 interface WeatherService {
 

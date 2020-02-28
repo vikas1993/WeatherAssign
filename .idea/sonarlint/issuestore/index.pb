@@ -43,3 +43,5 @@ y
 Iapp/src/main/java/com/test/weatherapplication/view/WeatherDataActivity.kt,c\f\cf1bc4d114ff478ee1836c6ae3cd8a1db613dae3
 ~
 Napp/src/main/java/com/test/weatherapplication/viewmodel/ObservableViewModel.kt,7\0\70912f215b2f8a8532bc2df57e4bae175563e9a7
+~
+Napp/src/main/java/com/test/weatherapplication/view/WeatherDataAdapterHourly.kt,8\1\81bce299ffefea691fdf55c0d3966c694e86ef9a

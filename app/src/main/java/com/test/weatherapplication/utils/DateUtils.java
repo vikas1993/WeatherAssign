@@ -1,7 +1,7 @@
 package com.test.weatherapplication.utils;
 
 /**
- * Created by burakakgun on 13.08.2018.
+ * Created by vikas on 29-02-2020.
  */
 
 import android.annotation.SuppressLint;

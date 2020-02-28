@@ -9,7 +9,7 @@ import com.test.weatherapplication.model.WeatherData
 import java.util.*
 
 /**
- * Created by burakakgun on 8/15/2018.
+ * Created by vikas on 29-02-2020.
  */
 class DBHelper(context: Context) : SQLiteOpenHelper(context, DBHelper.DATABASE_NAME, null, DBHelper.DATABASE_VERSION) {
 

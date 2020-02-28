@@ -13,6 +13,156 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/build/generated/source/kapt/debug/com/test/weatherapplication/databinding/SavedWeatherDataListItemBindingImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/model/WeatherData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/model/WeatherDataProcessor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/model/WeatherDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/NetworkRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/WeatherService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/WeatherHourlyResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/WeatherResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/WeatherResponseObject.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/Clouds.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/Coord.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/Main.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/Sys.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/WeatherItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/network/response/modal/Wind.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/utils/DBHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/utils/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/view/WeatherDataActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/view/WeatherDataAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/view/WeatherDataAdapterHourly.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/viewmodel/ObservableViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/viewmodel/WeatherDataSummaryItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/java/com/assignment/weatherapplication/viewmodel/WeatherDataViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/res/layout/activity_weather_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/res/layout/content_weatherdata.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/res/layout/detail_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/res/layout/saved_weather_data_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WeatherApplication/app/src/main/res/layout/saved_weather_hourly_data_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../MVVM-OpenWeather-Kotlin-Test/app/build.gradle">
           <value>
             <set />
@@ -29,6 +179,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/test/weatherapplication/DataBinderMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/test/weatherapplication/network/WeatherService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/test/weatherapplication/utils/DBHelper.java">
           <value>
             <set />
           </value>
